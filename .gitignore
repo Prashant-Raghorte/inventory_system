@@ -1,0 +1,11 @@
+/.coverage
+/.pytest_cache
+/venv
+/__pycache__
+*/*/__pycache__/
+*/__pycache__/
+pyvenv.cfg
+*/__pycache__/*
+*/*/.DS_store
+.DS_store
+db.sqlite3
